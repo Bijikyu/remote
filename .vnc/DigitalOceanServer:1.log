@@ -1,0 +1,284 @@
+29/12/21 22:59:20 Xvnc version TightVNC-1.3.10
+29/12/21 22:59:20 Copyright (C) 2000-2009 TightVNC Group
+29/12/21 22:59:20 Copyright (C) 1999 AT&T Laboratories Cambridge
+29/12/21 22:59:20 All Rights Reserved.
+29/12/21 22:59:20 See http://www.tightvnc.com/ for information on TightVNC
+29/12/21 22:59:20 Desktop name 'X' (DigitalOceanServer:1)
+29/12/21 22:59:20 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+29/12/21 22:59:20 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/root/.Xresources'
+/usr/bin/startxfce4: X server already running on display :1
+/usr/bin/iceauth:  creating new authority file /run/user/0/ICEauthority
+gpg-agent[147787]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:147754): xfce4-session-WARNING **: 22:59:21.933: gpg-agent returned no PID in the variables
+
+(xfce4-session:147754): xfce4-session-WARNING **: 22:59:21.934: xfsm_manager_load_session: Something wrong with /root/.cache/sessions/xfce4-session-DigitalOceanServer:1, Does it exist? Permissions issue?
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.251: XSync extension too old (3.0).
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.251: The display does not support the XRender extension.
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.251: The display does not support the XRandr extension.
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.251: The display does not support the XComposite extension.
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.251: The display does not support the XDamage extension.
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.251: The display does not support the XFixes extension.
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.252: The display does not support the XPresent extension.
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.252: Compositing manager disabled.
+
+(xfwm4:147791): GLib-CRITICAL **: 22:59:22.255: g_str_has_prefix: assertion 'prefix != NULL' failed
+xfwm4-Message: 22:59:22.369: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.382: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.395: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.407: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.419: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.431: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.443: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.455: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.467: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.480: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.493: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.506: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.522: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.541: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 22:59:22.561: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:147791): xfwm4-WARNING **: 22:59:22.567: Cannot find visual format on screen 0
+
+(xfsettingsd:147795): xfsettingsd-CRITICAL **: 22:59:22.600: No RANDR extension found in display :1. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1".
+
+(xfsettingsd:147795): xfsettingsd-CRITICAL **: 22:59:22.607: XI is not present.
+
+(xfsettingsd:147795): xfsettingsd-CRITICAL **: 22:59:22.607: Failed to initialize the Xkb extension.
+
+(xfsettingsd:147795): xfsettingsd-CRITICAL **: 22:59:22.607: Failed to initialize the Accessibility extension.
+
+(xfsettingsd:147795): GLib-CRITICAL **: 22:59:22.609: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:147795): GLib-GObject-CRITICAL **: 22:59:22.614: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:147795): GLib-GObject-CRITICAL **: 22:59:22.616: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+xfwm4-Message: 22:59:22.683: Unsupported keyboard modifier '<Super>Tab'
+xfce4-panel-Message: 22:59:22.880: Plugin "statusnotifier-7" was not found and has been removed from the configuration
+
+** (wrapper-2.0:147816): WARNING **: 22:59:23.077: No XRANDR extension found
+
+(wrapper-2.0:147819): GLib-GIO-CRITICAL **: 22:59:23.108: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:147819): GLib-GIO-CRITICAL **: 22:59:23.108: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:147819): GLib-GObject-WARNING **: 22:59:23.108: invalid (NULL) pointer instance
+
+(wrapper-2.0:147819): GLib-GObject-CRITICAL **: 22:59:23.108: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:147819): Gtk-WARNING **: 22:59:23.108: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:147819): Gtk-WARNING **: 22:59:23.160: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:147815): WARNING **: 22:59:23.162: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:147815): pulseaudio-plugin-WARNING **: 22:59:23.162: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+** (wrapper-2.0:147815): WARNING **: 22:59:23.162: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:147815): pulseaudio-plugin-WARNING **: 22:59:23.162: Could not have grabbed multimedia control keys.
+
+** (xiccd:147849): CRITICAL **: 22:59:23.209: RandR extension is not working on display :1.0
+
+(wrapper-2.0:147816): xfce4-power-manager-plugin-WARNING **: 22:59:23.213: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+** (light-locker:147859): ERROR **: 22:59:23.318: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+
+(wrapper-2.0:147816): Gtk-WARNING **: 22:59:23.326: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:147815): Gtk-WARNING **: 22:59:23.482: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(nm-applet:147848): Gdk-CRITICAL **: 22:59:23.951: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+** (xfdesktop:147811): WARNING **: 22:59:24.622: Failed to set the background '/usr/share/backgrounds/xfce/xfce-stripes.png': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.DisplayManager.AccountsService”
+
+30/12/21 04:01:17 Got connection from client 127.0.0.1
+30/12/21 04:01:17 Using protocol version 3.8
+30/12/21 04:01:35 rfbVncAuthProcessResponse: authentication failed from 127.0.0.1
+30/12/21 04:01:35 Client 127.0.0.1 gone
+30/12/21 04:01:35 Statistics:
+30/12/21 04:01:35   framebuffer updates 0, rectangles 0, bytes 0
+
+30/12/21 04:01:37 Got connection from client 127.0.0.1
+30/12/21 04:01:37 Using protocol version 3.8
+30/12/21 04:01:39 Client 127.0.0.1 gone
+30/12/21 04:01:39 Statistics:
+30/12/21 04:01:39   framebuffer updates 0, rectangles 0, bytes 0
+
+30/12/21 04:01:41 Got connection from client 127.0.0.1
+30/12/21 04:01:42 Using protocol version 3.8
+30/12/21 04:01:58 Full-control authentication passed by 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+30/12/21 04:01:58 Using zlib encoding for client 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+30/12/21 04:01:58 Enabling full-color cursor updates for client 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+30/12/21 04:01:58 Pixel format for client 127.0.0.1:
+30/12/21 04:01:58   8 bpp, depth 6
+30/12/21 04:01:58   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+30/12/21 04:01:58 Using raw encoding for client 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+30/12/21 04:01:58 Enabling full-color cursor updates for client 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+30/12/21 04:01:58 Using zlib encoding for client 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+30/12/21 04:01:58 Enabling full-color cursor updates for client 127.0.0.1
+30/12/21 04:01:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+30/12/21 04:01:58 Pixel format for client 127.0.0.1:
+30/12/21 04:01:58   32 bpp, depth 24, little endian
+30/12/21 04:01:58   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+30/12/21 04:01:58   no translation needed
+AUDIT: Thu Dec 30 04:21:37 2021: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.59 port 38646
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+30/12/21 04:22:41 Using hextile encoding for client 127.0.0.1
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+30/12/21 04:22:41 Enabling full-color cursor updates for client 127.0.0.1
+30/12/21 04:22:41 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+30/12/21 04:24:49 KbdAddEvent: unknown KeySym 0xfe03 - allocating KeyCode 89
+xfwm4-Message: 04:24:49.307: Unsupported keyboard modifier '<Super>Tab'
+AUDIT: Thu Dec 30 05:48:25 2021: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.44 port 54106
+30/12/21 06:34:43 Client 127.0.0.1 gone
+30/12/21 06:34:43 Statistics:
+30/12/21 06:34:43   key events received 182, pointer events 15388
+30/12/21 06:34:43   framebuffer updates 2333, rectangles 6829, bytes 227299786
+30/12/21 06:34:43     cursor shape updates 110, bytes 74076
+30/12/21 06:34:43     raw rectangles 1, bytes 16396
+30/12/21 06:34:43     hextile rectangles 6183, bytes 226285222
+30/12/21 06:34:43     zlib rectangles 535, bytes 924092
+30/12/21 06:34:43   raw bytes equivalent 1355546104, compression ratio 5.965637
+AUDIT: Thu Dec 30 14:05:49 2021: 147748 Xtightvnc: client 17 rejected from IP 165.154.44.158 port 33726
+AUDIT: Thu Dec 30 14:06:02 2021: 147748 Xtightvnc: client 17 rejected from IP 165.154.44.158 port 38102
+AUDIT: Fri Dec 31 22:06:43 2021: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.41 port 43634
+AUDIT: Sat Jan  1 10:32:29 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.43 port 49896
+AUDIT: Sun Jan  2 06:53:30 2022: 147748 Xtightvnc: client 17 rejected from IP 185.180.143.15 port 34002
+AUDIT: Sun Jan  2 21:00:22 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.42 port 43892
+AUDIT: Tue Jan  4 00:24:59 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.113 port 35214
+AUDIT: Tue Jan  4 11:11:23 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.44 port 54286
+AUDIT: Tue Jan  4 21:53:03 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.43 port 46640
+AUDIT: Fri Jan  7 06:41:11 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.115 port 34566
+AUDIT: Fri Jan  7 22:50:22 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.59 port 35714
+AUDIT: Fri Jan  7 23:45:30 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.58 port 33704
+AUDIT: Sun Jan  9 02:35:48 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.43 port 52848
+AUDIT: Sun Jan  9 13:56:33 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.42 port 59278
+AUDIT: Tue Jan 11 21:50:24 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.58 port 51876
+AUDIT: Wed Jan 12 08:28:48 2022: 147748 Xtightvnc: client 17 rejected from IP 178.32.197.92 port 59593
+AUDIT: Wed Jan 12 09:11:54 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.113 port 43882
+AUDIT: Wed Jan 12 13:57:02 2022: 147748 Xtightvnc: client 17 rejected from IP 45.33.65.249 port 50124
+AUDIT: Wed Jan 12 13:57:02 2022: 147748 Xtightvnc: client 17 rejected from IP 45.33.65.249 port 54284
+AUDIT: Fri Jan 14 19:51:03 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.57 port 47894
+AUDIT: Sat Jan 15 04:10:27 2022: 147748 Xtightvnc: client 17 rejected from IP 183.136.226.4 port 5881
+AUDIT: Sat Jan 15 14:10:31 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.42 port 45712
+AUDIT: Sun Jan 16 05:40:07 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.44 port 34972
+AUDIT: Mon Jan 17 01:24:21 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.42 port 38820
+AUDIT: Mon Jan 17 09:35:20 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.41 port 56464
+AUDIT: Tue Jan 18 03:18:13 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.116 port 44656
+AUDIT: Tue Jan 18 21:05:18 2022: 147748 Xtightvnc: client 17 rejected from IP 23.225.180.180 port 35624
+AUDIT: Wed Jan 19 21:26:16 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.59 port 50872
+AUDIT: Fri Jan 21 16:56:13 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.60 port 39584
+AUDIT: Fri Jan 21 18:51:25 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.44 port 41322
+AUDIT: Sat Jan 22 20:39:15 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.193 port 54590
+AUDIT: Mon Jan 24 20:39:30 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.59 port 54226
+AUDIT: Wed Jan 26 11:13:52 2022: 147748 Xtightvnc: client 17 rejected from IP 185.142.236.34 port 54030
+AUDIT: Thu Jan 27 03:19:58 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.59 port 37866
+AUDIT: Thu Jan 27 12:20:22 2022: 147748 Xtightvnc: client 17 rejected from IP 167.172.17.216 port 41621
+AUDIT: Thu Jan 27 18:53:52 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.57 port 60410
+AUDIT: Thu Jan 27 19:56:33 2022: 147748 Xtightvnc: client 17 rejected from IP 172.104.140.107 port 40390
+AUDIT: Thu Jan 27 19:56:34 2022: 147748 Xtightvnc: client 20 rejected from IP 172.104.140.107 port 43860
+AUDIT: Sat Jan 29 13:53:58 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.63 port 36706
+AUDIT: Sat Jan 29 20:23:41 2022: 147748 Xtightvnc: client 17 rejected from IP 223.71.167.164 port 40578
+AUDIT: Sat Jan 29 21:53:06 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.46 port 42688
+AUDIT: Sun Jan 30 21:00:28 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.210 port 43624
+AUDIT: Sun Jan 30 23:38:46 2022: 147748 Xtightvnc: client 17 rejected from IP 185.220.100.252 port 29502
+AUDIT: Mon Jan 31 13:01:21 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.62 port 47172
+AUDIT: Mon Jan 31 20:10:03 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.119 port 35444
+AUDIT: Tue Feb  1 01:29:49 2022: 147748 Xtightvnc: client 17 rejected from IP 109.74.204.123 port 41402
+AUDIT: Tue Feb  1 01:29:49 2022: 147748 Xtightvnc: client 22 rejected from IP 109.74.204.123 port 47082
+AUDIT: Tue Feb  1 11:10:06 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.9 port 44382
+AUDIT: Tue Feb  1 12:27:42 2022: 147748 Xtightvnc: client 17 rejected from IP 143.198.225.197 port 54828
+AUDIT: Tue Feb  1 22:32:30 2022: 147748 Xtightvnc: client 17 rejected from IP 94.102.49.193 port 57812
+AUDIT: Wed Feb  2 00:15:40 2022: 147748 Xtightvnc: client 17 rejected from IP 64.227.90.185 port 51902
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+AUDIT: Wed Feb  2 12:24:27 2022: 147748 Xtightvnc: client 17 rejected from IP 185.220.101.56 port 14138
+AUDIT: Wed Feb  2 19:54:47 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.211 port 55148
+AUDIT: Thu Feb  3 12:04:54 2022: 147748 Xtightvnc: client 17 rejected from IP 185.220.101.173 port 5836
+AUDIT: Thu Feb  3 19:24:46 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.45 port 51074
+AUDIT: Fri Feb  4 11:08:17 2022: 147748 Xtightvnc: client 17 rejected from IP 198.74.62.88 port 57414
+AUDIT: Fri Feb  4 11:12:34 2022: 147748 Xtightvnc: client 17 rejected from IP 194.233.163.37 port 53000
+AUDIT: Fri Feb  4 20:17:08 2022: 147748 Xtightvnc: client 17 rejected from IP 178.79.188.228 port 39492
+AUDIT: Fri Feb  4 20:21:20 2022: 147748 Xtightvnc: client 17 rejected from IP 139.177.198.56 port 57752
+AUDIT: Sat Feb  5 00:32:42 2022: 147748 Xtightvnc: client 17 rejected from IP 183.136.226.4 port 21940
+AUDIT: Sat Feb  5 13:21:24 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.62 port 33950
+AUDIT: Sun Feb  6 12:20:08 2022: 147748 Xtightvnc: client 17 rejected from IP 143.110.239.2 port 44860
+AUDIT: Sun Feb  6 23:25:55 2022: 147748 Xtightvnc: client 17 rejected from IP 23.128.248.17 port 8633
+AUDIT: Mon Feb  7 00:40:56 2022: 147748 Xtightvnc: client 17 rejected from IP 143.198.225.197 port 45098
+AUDIT: Mon Feb  7 05:36:25 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.145.57 port 53840
+AUDIT: Mon Feb  7 15:12:01 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.47 port 40872
+AUDIT: Mon Feb  7 16:51:23 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.219 port 38898
+AUDIT: Mon Feb  7 23:37:09 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.119 port 42810
+AUDIT: Tue Feb  8 16:28:47 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.47 port 50548
+AUDIT: Tue Feb  8 21:55:27 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.44 port 46954
+AUDIT: Wed Feb  9 06:23:07 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.213 port 40682
+AUDIT: Wed Feb  9 08:31:50 2022: 147748 Xtightvnc: client 17 rejected from IP 128.14.209.146 port 35704
+AUDIT: Thu Feb 10 18:44:42 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.119 port 36544
+AUDIT: Fri Feb 11 04:29:23 2022: 147748 Xtightvnc: client 17 rejected from IP 64.227.90.185 port 57798
+AUDIT: Fri Feb 11 05:53:49 2022: 147748 Xtightvnc: client 17 rejected from IP 146.56.138.158 port 57418
+AUDIT: Fri Feb 11 13:29:21 2022: 147748 Xtightvnc: client 17 rejected from IP 64.227.90.185 port 33740
+AUDIT: Fri Feb 11 16:35:58 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.146.58 port 55526
+AUDIT: Fri Feb 11 20:23:29 2022: 147748 Xtightvnc: client 17 rejected from IP 165.227.55.4 port 56370
+AUDIT: Fri Feb 11 23:46:03 2022: 147748 Xtightvnc: client 17 rejected from IP 183.136.226.4 port 21384
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+AUDIT: Sat Feb 12 08:09:04 2022: 147748 Xtightvnc: client 17 rejected from IP 178.32.197.94 port 48823
+AUDIT: Sun Feb 13 13:47:49 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.8 port 51132
+AUDIT: Mon Feb 14 04:54:59 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.120 port 33874
+AUDIT: Mon Feb 14 05:57:48 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.61 port 55342
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+AUDIT: Mon Feb 14 21:47:05 2022: 147748 Xtightvnc: client 17 rejected from IP 162.142.125.9 port 58682
+AUDIT: Tue Feb 15 17:48:11 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.44 port 38884
+AUDIT: Wed Feb 16 05:23:29 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.45 port 48274
+thunar-volman: Unknown block device type "disk".
+AUDIT: Thu Feb 17 12:05:19 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.45 port 59598
+AUDIT: Thu Feb 17 13:49:54 2022: 147748 Xtightvnc: client 17 rejected from IP 180.215.130.46 port 55338
+AUDIT: Fri Feb 18 14:36:43 2022: 147748 Xtightvnc: client 17 rejected from IP 45.79.104.226 port 56246
+AUDIT: Fri Feb 18 14:40:25 2022: 147748 Xtightvnc: client 17 rejected from IP 167.71.129.172 port 50174
+AUDIT: Fri Feb 18 21:22:25 2022: 147748 Xtightvnc: client 17 rejected from IP 167.248.133.47 port 37860
+AUDIT: Sat Feb 19 10:44:08 2022: 147748 Xtightvnc: client 17 rejected from IP 165.154.6.57 port 62918
+AUDIT: Sat Feb 19 10:44:21 2022: 147748 Xtightvnc: client 17 rejected from IP 165.154.6.57 port 1486
+AUDIT: Sun Feb 20 21:23:32 2022: 147748 Xtightvnc: client 17 rejected from IP 167.94.138.63 port 43740

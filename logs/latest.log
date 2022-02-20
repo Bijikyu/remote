@@ -1,0 +1,78 @@
+[04:52:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:52:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:52:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:52:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:52:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:52:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:52:49] [ServerMain/INFO]: Reloading ResourceManager: Default
+[04:52:50] [Worker-Main-2/INFO]: Loaded 7 recipes
+[04:52:50] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[04:52:54] [Server thread/INFO]: Starting minecraft server version 1.18
+[04:52:54] [Server thread/INFO]: Loading properties
+[04:52:54] [Server thread/INFO]: Default game type: CREATIVE
+[04:52:54] [Server thread/INFO]: Generating keypair
+[04:52:54] [Server thread/INFO]: Starting Minecraft server on 143.110.151.171:25565
+[04:52:54] [Server thread/INFO]: Using epoll channel type
+[04:52:54] [Server thread/INFO]: Preparing level "Owens World"
+[04:52:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:52:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[04:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:13] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:15] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:15] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[04:53:16] [Server thread/INFO]: Time elapsed: 21579 ms
+[04:53:16] [Server thread/INFO]: Done (21.683s)! For help, type "help"
+[04:54:14] [User Authenticator #1/INFO]: UUID of player Bijikyu1 is 345a69f0-15ba-4091-acd8-bed13f500e3e
+[04:54:15] [Server thread/INFO]: Bijikyu1[/173.239.198.51:59279] logged in with entity id 34 at (49.84665832653828, 5578.495692231469, -1229.626137336718)
+[04:54:15] [Server thread/INFO]: Bijikyu1 joined the game
+[04:54:16] [Server thread/WARN]: Bijikyu1 moved too quickly! 0.0,22.445427956511594,0.0
+[04:54:20] [Server thread/WARN]: Bijikyu1 moved too quickly! 0.0,21.129371836304017,0.0
+[04:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[04:54:20] [Server thread/WARN]: Bijikyu1 moved too quickly! 0.0,14.578574382773695,0.0
+[04:57:00] [Server thread/INFO]: [Bijikyu1: Teleported Bijikyu1 to Bijikyu1]
+[04:57:09] [Server thread/INFO]: [Bijikyu1: Teleported Bijikyu1 to Bijikyu1]
+[04:57:23] [Server thread/INFO]: Bijikyu1 fell out of the world
+[04:57:23] [Server thread/INFO]: [Bijikyu1: Killed Bijikyu1]
+[04:57:24] [Server thread/INFO]: Skipping update from removed player 'adj['Bijikyu1'/34, l='ServerLevel[Owens World]', x=61.48, y=4973.10, z=-1235.26, removed=KILLED]'
+[04:57:24] [Server thread/INFO]: Skipping update from removed player 'adj['Bijikyu1'/34, l='ServerLevel[Owens World]', x=61.48, y=4969.19, z=-1235.26, removed=KILLED]'
+[04:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[04:58:16] [Server thread/INFO]: Bijikyu1 lost connection: Disconnected
+[04:58:16] [Server thread/INFO]: Bijikyu1 left the game
